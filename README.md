@@ -49,7 +49,6 @@ Here are some ideas to get you started:
   <img src="https://github-profile-trophy.vercel.app/?username=nex84&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
 </p>
 
-<!--
+
 ![stats](github-metrics.svg)
 ![](https://hit.yhype.me/github/profile?user_id=82603435)
--->
