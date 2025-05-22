@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working at [Finaxys](https://www.finaxys.com/).
-- 🌱 I’m currently learning more on [HCI](https://www.hpe.com/emea_europe/en/what-is/hyperconverged-infrastructure.html), Golang, and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
-- 💬 Ask me about **Containers, Kubernetes and Python**
+- 🌱 I’m currently learning more on IT architecture and better [X-as-code](https://quadralogics.com/research/XAsCode.html) practices.
+- 💬 Ask me about **Cloud, Kubernetes and Python**
 - 📫 How to reach me: [@arcanexus.com](https://bsky.app/profile/arcanexus.com) on BlueSky.
 
 ![Static Badge](https://img.shields.io/badge/AWS-%2523E7EEF0.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=E57000)
