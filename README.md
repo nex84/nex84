@@ -5,7 +5,7 @@
 </p>
 
 <!--
-**nex84/nex84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FORKED FROM https://github.com/qjoly/QJoly/blob/main/README.md
 
 Here are some ideas to get you started:
 
