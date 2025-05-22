@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ### Stats
 
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://www.arcanexus.com/">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nex84&show_icons=true&locale=en&bg_color=0D1117&text_color=ffffff&hide_border=true" />
     <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nex84&theme=dark&background=0D1117&hide_border=true" />
@@ -48,7 +48,12 @@ Here are some ideas to get you started:
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
   <img src="https://github-profile-trophy.vercel.app/?username=nex84&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
 </p>
+<br>
+<p align="center">
+  <a href="github-metrics.svg" target="_blank">
+  <img src="github-metrics.svg" alt="GitHub Metrics" /></a>
+</p>
 
+ -------
 
-![stats](github-metrics.svg)
 ![](https://hit.yhype.me/github/profile?user_id=82603435)
