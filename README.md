@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [@arcanexus.com](https://bsky.app/profile/arcanexus.com) on BlueSky.
 
 ![Static Badge](https://img.shields.io/badge/AWS-%2523E7EEF0.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white&color=E57000)
-![Static Badge](https://img.shields.io/badge/Azure-%2523E7EEF0.svg?style=for-the-badge&logo=owncloud&logoColor=white&color=4285F4)
+![Static Badge](https://img.shields.io/badge/Azure-%2523E7EEF0.svg?style=for-the-badge&logo=owncloud&logoColor=white&color=00A4EF)
 ![Static Badge](https://img.shields.io/badge/GCP-%2523E7EEF0.svg?style=for-the-badge&logo=googlecloud&logoColor=white&color=4285F4)
 ![Proxmox](https://img.shields.io/static/v1?style=for-the-badge&message=Proxmox&color=E57000&logo=Proxmox&logoColor=FFFFFF&label=)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
