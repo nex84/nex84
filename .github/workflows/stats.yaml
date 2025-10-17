@@ -11,8 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # - uses: lowlighter/metrics@latest
-      # - uses: gh-metrics/metrics@latest
-      - uses: yobson1/metrics@latest
+      - uses: gh-metrics/metrics@latest
+      # - uses: yobson1/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
