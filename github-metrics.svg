@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            4359 Commits
+                            4361 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -231,14 +231,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="162.7025920585722" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="162.7025920585722" y="0" width="141.10812068233483" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="303.81071274090704" y="0" width="46.69497203752869" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="350.5056847784357" y="0" width="33.03533807816873" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="383.54102285660446" y="0" width="24.528753830369638" height="8" fill="#844FBA"/>
-                    <rect mask="url(#languages-bar)" x="408.06977668697414" y="0" width="20.187547013309988" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="428.2573237002841" y="0" width="19.894948015345268" height="8" fill="#a52a22"/>
-                    <rect mask="url(#languages-bar)" x="448.15227171562935" y="0" width="11.847728284370667" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="162.64219688280144" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="162.64219688280144" y="0" width="141.05574137083482" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="303.69793825363627" y="0" width="46.84839079684232" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="350.54632905047856" y="0" width="33.02307536603468" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="383.56940441651324" y="0" width="24.519648760928025" height="8" fill="#844FBA"/>
+                    <rect mask="url(#languages-bar)" x="408.08905317744126" y="0" width="20.180053399134433" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="428.26910657657567" y="0" width="19.88756301387028" height="8" fill="#a52a22"/>
+                    <rect mask="url(#languages-bar)" x="448.156669590446" y="0" width="11.84333040955401" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -251,7 +251,7 @@
                             </div>
                             <small>
                                 <div>3.37 MB</div>
-                                <div>35.37%</div>
+                                <div>35.36%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -262,8 +262,8 @@
                                 Python
                             </div>
                             <small>
-                                <div>968 kB</div>
-                                <div>10.15%</div>
+                                <div>972 kB</div>
+                                <div>10.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -301,7 +301,7 @@
                             </div>
                             <small>
                                 <div>2.93 MB</div>
-                                <div>30.68%</div>
+                                <div>30.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -337,7 +337,7 @@
                             </div>
                             <small>
                                 <div>245 kB</div>
-                                <div>2.58%</div>
+                                <div>2.57%</div>
                             </small>
                         </div>
                     </section>
@@ -2357,19 +2357,19 @@
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
                             <g transform="translate(-1.7, 6.818181818181818)">
-                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+                                <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
                             </g>
                             <g transform="translate(-3.4, 8)">
                                 <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-5.1, 8.818181818181818)">
+                            <g transform="translate(-5.1, 8.636363636363637)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1818181818181817 0,1.1818181818181819 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1818181818181819 1.7,2.1818181818181817 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.3636363636363638 0,1.3636363636363638 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.3636363636363638 1.7,2.3636363636363638 z"/>
                             </g>
                         </g>
                     </g>
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Apr 2026, 03:02:13 (timezone Europe/Paris) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Apr 2026, 14:55:03 (timezone Europe/Paris) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
