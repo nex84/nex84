@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
-  <img src="https://github-profile-trophy.vercel.app/?username=nex84&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
+  <img src="https://github-profile-trophy-reiyua-mirror.vercel.app/?username=nex84&column=5&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" /></a>
 </p>
 <br>
 <p align="center">
